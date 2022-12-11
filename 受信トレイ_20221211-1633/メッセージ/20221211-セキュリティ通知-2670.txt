@@ -1,0 +1,17 @@
+Subject: セキュリティ通知
+From: Google <no-reply@accounts.google.com>
+Date: 2022/12/11 9:44
+To: oriiatsushi@gmail.com
+
+	
+Google
+お使いの Google アカウントへのアクセスが Mozilla Thunderbird Email に許可されました
+	oriiatsushi@gmail.com
+
+アクセスを許可した覚えがない場合は、このアクティビティをご確認のうえ、アカウントを保護してください。
+アクティビティを確認
+セキュリティ関連のアクティビティも確認できます
+https://myaccount.google.com/notifications
+このメールは Google のアカウントやサービスの重要な変更についてお知らせするためにお送りしています。
+© 2022 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+	

@@ -1,0 +1,34 @@
+Subject: アカウント作成完了のご連絡: Google Cloud 無料トライアル
+From: Google Cloud <CloudPlatform-noreply@google.com>
+Date: 2022/12/05 20:48
+To: oriiatsushi@gmail.com
+
+アカウント作成完了のご連絡: Google Cloud 無料トライアル
+Google Cloud の Always Free プロダクトを今すぐご利用いただけます。
+Google Cloud
+コンソールへ移動 	
+Google Cloud へようこそ。
+このチュートリアルでは、無料トライアルの基本情報と、Always Free 枠で無料で利用できる Google Cloud のその他の機能をご紹介します。
+コンソールへ移動
+Google Cloud 無料トライアルへようこそ。本日から Google Cloud で利用できる $300（米ドル）分のクレジットをご用意しました。無料トライアルでは、以下が可能です。
+	
+クレジットを使用して、プラットフォームをリスクなしで*評価する
+	
+Compute Engine、BigQuery、App Engine、業界トップクラスの AI など、幅広い Google Cloud プロダクトおよびサービスを試す
+	
+Google Cloud Console の Cloud Billing セクションにアクセスしてクレジットの使用状況を簡単に確認する
+Always Free プロダクトについて。
+無料トライアルを開始する前に、Always Free 枠の 20 種類を超える Always Free プロダクトをご確認ください。これらのプロダクトは、指定の使用量上限まで無料でご利用いただけます。クレジットも不要です。
+短時間でマスターできる Cloud Console ツアーから開始しましょう。このツアーでは、プロジェクトを簡単にナビゲート、整理、管理する方法を説明します。ツアーを開始するには、ご自身の Cloud Console にアクセスしてください。
+コンソールへ移動
+今後ともどうぞよろしくお願いいたします。
+Google Cloud チーム
+* 無料トライアルは無料のまま継続されます。自動請求を有効にするまで課金されることはありません。無料のクレジットを使い切った場合や、トライアル期間を過ぎてもプロジェクトで作業を続ける場合、プロジェクトは 30 日間保存されます。
+	サポート
+	フォーラム
+	ドキュメント
+	チュートリアル
+Google Cloud
+Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043
+このサービスに関するお知らせは、Google Cloud やご利用のアカウントに関する重要な変更についてお知らせするもので、メール通知の設定にかかわらずお送りしております。
+Google Cloud ブログ 	    	GitHub 	    	LinkedIn 	    	Twitter 	    	Facebook
