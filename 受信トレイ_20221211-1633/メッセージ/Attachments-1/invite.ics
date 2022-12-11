@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20220823T010000Z
+DTEND:20220823T020000Z
+DTSTAMP:20220823T010557Z
+ORGANIZER;CN=m.uchida@irodas.com:mailto:m.uchida@irodas.com
+UID:mpqtvs3qpn7ooeh2s3s5e6l3sk@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;RSVP=TRUE
+ ;CN=m.uchida@irodas.com;X-NUM-GUESTS=0:mailto:m.uchida@irodas.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;RSVP=TRUE
+ ;CN=oriiatsushi@gmail.com;X-NUM-GUESTS=0:mailto:oriiatsushi@gmail.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/acc-twqx-hzk
+X-MICROSOFT-CDO-OWNERAPPTID:624225115
+CREATED:20220822T015752Z
+DESCRIPTION:<p><strong>【irodasSALON就活サポート面談の概要】</strong></p><p><strong>・緊急連
+ 絡先</strong></p><p><a href="https://works.do/R/ti/p/irodassalon.marketing24@
+ irodascoltd" rel="nofollow">初回面談専用ライン(タップで登録)</a>からご連絡お願いします。</p><p><a href
+ ="https://works.do/R/ti/p/irodassalon.marketing24@irodascoltd" rel="nofollo
+ w">https://works.do/R/ti/p/irodassalon.marketing24@irodascoltd</a></p><p>※日
+ 程変更/キャンセル等もこちらで受け付けます※</p><p>もしくは、下記までお問い合わせください。</p><p>06-6136-5608（9:30-1
+ 8:00 平日）</p><p></p><p><strong>・公式アプリDL について</strong></p><p>面談では公式アプリを使用します。
+ </p><p>当日までに、アプリのDLと登録をお願いします。</p><p><a href="https://apps.apple.com/jp/app
+ /irodas/id1556185623" rel="nofollow">▶︎iPhoneの方</a></p><p><a href="https://
+ apps.apple.com/jp/app/irodas/id1556185623" rel="nofollow">https://apps.appl
+ e.com/jp/app/irodas/id1556185623</a></p><p><a href="https://play.google.com
+ /store/apps/details?id=com.irodas.irodas_salon" rel="nofollow">▶︎Androidの方<
+ /a></p><p><a href="https://play.google.com/store/apps/details?id=com.irodas
+ .irodas_salon" rel="nofollow">https://play.google.com/store/apps/details?id
+ =com.irodas.irodas_salon</a></p><p><a href="https://f.hubspotusercontent10.
+ net/hubfs/20776466/appli_DL.pdf" rel="nofollow">▶︎登録方法(公式アプリ利用方法)</a></p><p
+ ><a href="https://f.hubspotusercontent10.net/hubfs/20776466/appli_DL.pdf" r
+ el="nofollow">https://f.hubspotusercontent10.net/hubfs/20776466/appli_DL.pd
+ f</a></p><p>※注意事項※</p><p>メールアドレス登録はgmail \, yahoo等を推奨しております。</p><p></p><p><
+ strong>・面談当日のお願い</strong></p><p>面談開始の【5分前】には参加できる状態の準備をお願いします。</p><p>5分以上遅れ
+ て参加した場合は、【原則参加不可】となります。その場合は別途再調整のご案内をさせていただきます。</p><br><b>変更を行う必要がありますか？</
+ b><br><ul><li>再スケジュール：https://app.hubspot.com/meetings/irodassalon/all24202
+ 207?rescheduleId=04bcf0455a939f8c797a12b7550bad3b&ms=1</li><li>キャンセル：https:
+ //app.hubspot.com/meetings/irodassalon/all24202207?cancelId=04bcf0455a939f8
+ c797a12b7550bad3b&ms=1</li></ul>\n\n電話番号: 08087213076\n会社名: 筑波大学\n\n-::~:~:
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~
+ :~::-\nThis event has a video call.\nJoin: https://meet.google.com/acc-twqx
+ -hzk\n(JP) +81 3-4545-0450 PIN: 8413856238457#\nView more phone numbers: ht
+ tps://tel.meet/acc-twqx-hzk?pin=8413856238457&hs=7\n\nView your event at ht
+ tps://calendar.google.com/calendar/event?action=VIEW&eid=bXBxdHZzM3Fwbjdvb2
+ VoMnMzczVlNmwzc2sgb3JpaWF0c3VzaGlAbQ&tok=MTkjbS51Y2hpZGFAaXJvZGFzLmNvbTQxZD
+ AyMGYyMGI1NjJkZDM1MTk3ZjBiNDQ3ZTI1Y2Y5NzI2MWZiYWU&ctz=Asia%2FTokyo&hl=en&es
+ =1.\n\nDo not edit this section of the description.\n-::~:~::~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220823T010556Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:キャンセル済み：【irodasSALON就活サポート面談：24卒】折居篤  様筑波大学
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

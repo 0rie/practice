@@ -1,0 +1,16 @@
+Subject: セキュリティ通知
+From: Google <no-reply@accounts.google.com>
+Date: 2022/07/23 3:42
+To: oriiatsushi@gmail.com
+
+	
+Google
+Mac での新しいログイン
+	oriiatsushi@gmail.com
+Mac デバイスで、あなたの Google アカウントへの新しいログインが検出されました。ご自身によるものであれば、何もする必要はありません。ログインに心当たりがない場合は、アカウントを保護していただけるようサポートします。
+アクティビティを確認
+セキュリティ関連のアクティビティも確認できます
+https://myaccount.google.com/notifications
+このメールは Google のアカウントやサービスの重要な変更についてお知らせするためにお送りしています。
+© 2022 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+	
